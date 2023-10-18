@@ -1,0 +1,19 @@
+{
+    "name": "ngsolucoes/teste",
+    "description": "marketplace em php",
+    "type": "project",
+    "autoload": {
+        "files": [
+            
+        ],
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "risonaldo"
+        }
+    ],
+    "require": {}
+}
